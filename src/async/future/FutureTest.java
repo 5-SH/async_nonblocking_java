@@ -1,4 +1,4 @@
-package asynchronizedtest.future;
+package async.future;
 
 // 예제 별로임
 

@@ -1,4 +1,4 @@
-package asynchronizedtest.blockingqueue;
+package async.blockingqueue;
 
 import java.util.concurrent.BlockingQueue;
 

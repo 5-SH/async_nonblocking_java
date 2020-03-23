@@ -1,4 +1,4 @@
-package synchronizedtest;
+package sync;
 
 class Counter {
 	int i = 0;
